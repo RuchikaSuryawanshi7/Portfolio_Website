@@ -17,7 +17,7 @@ const ProjectItemStyles = styled.div`
   }
   .projectItem__info {
     margin-top: 1rem;
-    background-color: var(--deep-dark);
+    background-color: var(--footer);
     padding: 1rem;
     border-radius: 12px;
   }
@@ -40,12 +40,13 @@ export default function ProjectItem({
   img = Freak,
   title = 'Project Name',
   desc = 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+  link = 'https://github.com/RuchikaSuryawanshi7/AI-Fitness_Assistant',
 }) {
   return (
     <ProjectItemStyles>
-      <Link to="/projects" className="projectItem__img">
+      <a href={link} className="projectItem__img">
         <img src={img} alt="project img" />
-      </Link>
+      </a>
       <div className="projectItem__info">
         <Link to="#">
           <h3 className="projectItem__title">{title}</h3>

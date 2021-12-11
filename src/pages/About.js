@@ -161,7 +161,7 @@ export default function About() {
               />
               <AboutInfoItem
                 title="Diploma  (2018-2021)"
-                items={['Cusrow Wadia Instiyute Of Technology']}
+                items={['Cusrow Wadia Institute Of Technology']}
               />
               <AboutInfoItem
                 title="School (2018)"

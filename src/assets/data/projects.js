@@ -13,57 +13,65 @@ const projects = [
     id: uuidv4(),
     name: 'Freak - Your AI Fitness Assistant App',
     desc:
-      'An application to track your all data from one place. I developed the website and the mobile app',
+      'FREAK APP is primarily intended to boost a persons immune system, which is critical in the Covid 19 pandemic that the globe is currently dealing with.The app aims to improve people physical and mental health in order to boost their immune systems and overall well-being.',
     img: Freak,
+    link: 'https://github.com/RuchikaSuryawanshi7/AI-Fitness_Assistant',
   },
   {
     id: uuidv4(),
     name: 'AddictX - Online Addiction Recovery App',
     desc:
-      'An app to help people to get an overview of how they can make the city beautiful.',
+      'Addict-X is a team project that my team and I developed for the Google Solurtion Challenge, where our project was chosen as one of the top 50 teams from around the world to solve the UN SDG goal of good health and well-being.',
     img: AddictX,
+    link: 'https://github.com/RuchikaSuryawanshi7/AI-Fitness_Assistant',
   },
   {
     id: uuidv4(),
     name: 'Sorting Visualizer',
     desc:
-      'Using this app you can track any e coin. Also you will get a good advise about investment form the professional',
+      'This project sorting visualizer has a very basic user interface that allows users to choose the sort method, the amount of inputs in the range, and divide them randomly before displaying a bar graph visualisation by sorting them using the algorithm chosen.',
     img: SVisualiazer,
+    link: 'https://github.com/RuchikaSuryawanshi7/AI-Fitness_Assistant',
   },
   {
     id: uuidv4(),
     name: 'NetworkFoster - Students Networking Platform',
     desc:
-      'A portfolio for Cavin jr. A artist from New york city. The portfolio is made using ReactJs and GatsbyJs.',
+      'Its a social networking platform for students to connect with other students who share their interests, as well as discover mentors in their field and ask them questions. They can also use their feed to share content and achievements.',
     img: NetworkFoster,
+    link: 'https://github.com/RuchikaSuryawanshi7/AI-Fitness_Assistant',
   },
   {
     id: uuidv4(),
     name: 'Virtual Canvas',
     desc:
-      'A tracking website that will show the performance of the website. Also you will get some useful advice to improve the performance.',
+      'Its a virtual paint application that allows us to draw various shapes, figures, and text on a canvas with our fingertips in the air. I used the python mediapipe hand tracking module to detect hand movement and openCV to capture the visual of hands for this.',
     img: VCanvas,
+    link: 'https://github.com/RuchikaSuryawanshi7/AI-Fitness_Assistant',
   },
   {
     id: uuidv4(),
     name: 'React Portfolio Website',
     desc:
-      'A tracking website that will show the performance of the website. Also you will get some useful advice to improve the performance.',
+      'Its a personal portfolio website including all of my professional experience, accomplishments, and educational information. To create this website, I used the React javascript framework, which has features such as DOM, props, and routers.',
     img: RPortfolio,
+    link: 'https://github.com/RuchikaSuryawanshi7/AI-Fitness_Assistant',
   },
   {
     id: uuidv4(),
     name: 'Encrypted Chap Application',
     desc:
-      'A tracking website that will show the performance of the website. Also you will get some useful advice to improve the performance.',
+      'Ita PHP - based chat application in which users can communicate with one another and all data is protected.To store the data, we created our own custom encrypted method',
     img: ChatApp,
+    link: 'https://github.com/RuchikaSuryawanshi7/AI-Fitness_Assistant',
   },
   {
     id: uuidv4(),
     name: 'Webgenix-Learning Site',
     desc:
-      'A tracking website that will show the performance of the website. Also you will get some useful advice to improve the performance.',
+      'Our team built Webgenix while participating in the Vodafone Girls in STEM Program, where we learnt HTML, CSS, and Javascript. The website was built in about four hours.',
     img: Webgenix,
+    link: 'https://github.com/RuchikaSuryawanshi7/AI-Fitness_Assistant',
   },
 ];
 

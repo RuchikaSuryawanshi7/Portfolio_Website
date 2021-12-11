@@ -17,7 +17,7 @@ const AcheivementItemStyles = styled.div`
   }
   .projectItem__info {
     margin-top: 1rem;
-    background-color: var(--deep-dark);
+    background-color: var(--footer);
     padding: 1rem;
     border-radius: 12px;
   }
