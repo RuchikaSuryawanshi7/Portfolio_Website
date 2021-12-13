@@ -9,7 +9,7 @@ import Home from './pages/Home';
 import Projects from './pages/Projects';
 import Footerr from './components/Footerr';
 
-export default function App() {
+export default function AppItem() {
   return (
     <>
       <Router>

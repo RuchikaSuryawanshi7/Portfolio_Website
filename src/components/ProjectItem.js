@@ -19,6 +19,7 @@ const ProjectItemStyles = styled.div`
     margin-top: 1rem;
     background-color: var(--footer);
     padding: 1rem;
+    height: 250px;
     border-radius: 12px;
   }
   .projectItem__title {

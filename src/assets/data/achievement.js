@@ -14,63 +14,63 @@ const achivement = [
     id: uuidv4(),
     name: 'Google Solution Challenge 2021',
     desc:
-      'An application to track your all data from one place. I developed the website and the mobile app',
+      'Selected as one of the top 50 semi-finalist teams from around the world for the Google Solution Challenge 2021. Google provided mentorship to help us improve our final project. We also released our project on the Playstore and received over 500+ downloads.',
     img: GoogleSolutionChallenge,
   },
   {
     id: uuidv4(),
-    name: 'HackHarvard Winner',
+    name: 'HackHarvard Hackathon Winner',
     desc:
-      'An app to help people to get an overview of how they can make the city beautiful.',
+      'Won HACK HARVARD Hackathon 2021. It is global hackathon hosted by Harvard University. I worked on Heathcare theme and worked on a Project for 36 hours with Flutter, tensorflow, Google cloud and lot more.',
     img: HackHarvard,
   },
   {
     id: uuidv4(),
     name: 'Smart Hack Stage I Winner',
     desc:
-      'Using this app you can track any e coin. Also you will get a good advise about investment form the professional',
+      'IIT Kanpur selected me for the Smart Hack Hackathon Finale. I received the top grade in the entire college and won the Smart Hack Stage 1 competition.',
     img: SmartHack,
   },
   {
     id: uuidv4(),
-    name: 'Data Grind hackathon Winner',
+    name: 'Data Day Grind 2.0 hackathon Winner',
     desc:
-      'A portfolio for Cavin jr. A artist from New york city. The portfolio is made using ReactJs and GatsbyJs.',
+      'Won Data Day Grind 2.0 Hackathon 2021 fo best use of Google Cloud.  Because the hackathons topic is data, we must use the data to produce something valuable.For the healthcare subject, I worked on the Yoga poses dataset',
     img: DataGrind,
   },
   {
     id: uuidv4(),
     name: 'Devfest Flutter Quiz Winner',
     desc:
-      'A tracking website that will show the performance of the website. Also you will get some useful advice to improve the performance.',
+      'DevFest India is the largest yearly developer festival in India, hosted by Google Developer Groups. I won the Flutter Quiz and some GDG India goods.',
     img: Devfest,
   },
   {
     id: uuidv4(),
     name: 'Best Website Winner',
     desc:
-      'A tracking website that will show the performance of the website. Also you will get some useful advice to improve the performance.',
+      ' My team and I won Best Website Presentation for a website we built in less than four hours for Vodafone’s Global Code Like a Girl programme #codelikeagirl to Encourage more girls in STEM.',
     img: Stem,
   },
   {
     id: uuidv4(),
     name: 'GirlScript Scholarship',
     desc:
-      'A tracking website that will show the performance of the website. Also you will get some useful advice to improve the performance.',
+      'Got a scholarship from Girlscript Foundation to improve my technical abilities and learn new skills with the help of mentors assigned to our Batch',
     img: Scholarship,
   },
   {
     id: uuidv4(),
-    name: 'Letter of Appreciation',
+    name: 'WomenTech Network Letter of Appreciation',
     desc:
-      'A tracking website that will show the performance of the website. Also you will get some useful advice to improve the performance.',
+      'Got a letter of appreciation from WomenTech Network​ to support womens in Technology, WomenTech Network​ is a​ community that promotes​ gender diversity in tech.',
     img: WAppreciation,
   },
   {
     id: uuidv4(),
-    name: 'Letter of Appreciation',
+    name: 'ShapeAI Letter of Appreciation',
     desc:
-      'A tracking website that will show the performance of the website. Also you will get some useful advice to improve the performance.',
+      'Got appreciation from Shape AI for performing well in the course project.',
     img: HapeAI,
   },
 ];
