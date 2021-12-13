@@ -41,7 +41,7 @@ export default function ProjectItem({
   img = Freak,
   title = 'Project Name',
   desc = 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
-  link = 'https://github.com/RuchikaSuryawanshi7/AI-Fitness_Assistant',
+  link = 'https://github.com/',
 }) {
   return (
     <ProjectItemStyles>
