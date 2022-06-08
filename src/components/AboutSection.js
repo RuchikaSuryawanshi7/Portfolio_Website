@@ -80,9 +80,9 @@ export default function AboutSection() {
             heading="About Me"
           />
           <PText>
-            I am a computer science major who is working towards building a
-            world with ethical, inclusive and accessible technology.I have a
-            Passion for Computer Science and I aim at spreading knowledge,
+            I am an IT undergrad  who is working towards building a
+            world with ethical, inclusive and accessible technology. I have a
+            Passion for STEM Education and I aim at spreading knowledge,
             enlightening the unenlightened and bringing them to a whole new
             horizon!
           </PText>
